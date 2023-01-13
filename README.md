@@ -6,8 +6,4 @@ This project uses a few different classification algorithms to try and predict c
 - Logistic Regression
 
 ## Summary of classification models
-                 Algorithm  Jaccard  F1-Score  Accuracy LogLoss
-0    KNeighborsClassifier    0.510     0.633     0.667      NA
-1  DecisionTreeClassifier    0.549     0.630     0.741      NA
-2                     SVC    0.549     0.630     0.741      NA
-3      LogisticRegression    0.549     0.630     0.741   0.548
+![Summary of classification models](https://user-images.githubusercontent.com/102443619/212226939-66d1f35d-a836-4cdc-8d9d-41b1745e2006.PNG)
