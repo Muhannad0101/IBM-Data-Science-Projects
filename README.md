@@ -11,3 +11,4 @@ This project uses a few different classification algorithms to try and predict c
 #### The highest accuracy of 74% is achieved by decision tree, support vector machine, logistic regression, It's hard to say how the accuracy of these models could be improved, but some options like collecting more data about customers or feature engineering. It may be helpful to have more information about the client's location, income, marital status, and number of children.
 
 # Applied Data Science Capstone
+### Present...
