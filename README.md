@@ -1,4 +1,4 @@
-# Project-loan-status
+# predict loan default status Project
 This project uses a few different classification algorithms to try and predict customer loan default status  The following algorithms are tested:  
 - K-Nearest-Neighbors 
 - Decision Trees 
