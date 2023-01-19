@@ -5,7 +5,7 @@ This project uses a few different classification algorithms to try and predict c
 - Support Vector Machines 
 - Logistic Regression
 
-## Environment specification:
+## Environment specification
 - numpy
 - pandas
 - sklearn
