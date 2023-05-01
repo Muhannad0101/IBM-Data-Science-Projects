@@ -25,7 +25,8 @@ This project uses a few different classification algorithms to try and predict c
 
 • Confusion matrix: This shows the counts of true positives, true negatives, false positives, and false negatives. Examine the confusion matrix to see which types of errors the model makes most and if there are any patterns. The diagonal values represent correct predictions, so higher values are better.
 
-Simplified Report Prediction Mode:
+### Simplified Report Prediction Mode:
+
 The highest accuracy of 74% is achieved by decision tree, support vector machine, logistic regression, It's hard to say how the accuracy of these models could be improved, but some options like collecting more data about customers or feature engineering. It may be helpful to have more information about the customers location, income, marital status, and number of children.
 
 • "There was an 54% overlap between the customers our model predicted would default and those who actually defaulted." (Jaccard = 0.54)
